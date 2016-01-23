@@ -1,6 +1,6 @@
 name: lashaundale.com
 favicon: null
-layout_spectrum: 0.75109
+layout_spectrum: 1
 typography_spectrum: 0.18755
 title: lashaundale.com
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fdc346'
     - '#b8d7f1'
     - '#ff7f00'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.625
   saturation: 0.0625
   rhythmicContrast: 0.5
