@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Blog
-datePublished: '2016-01-24T01:25:17.255Z'
+datePublished: '2016-01-24T01:25:17.275Z'
 dateModified: '2016-01-24T01:25:14.360Z'
 title: 'Insights & Inspiration'
 author: []
