@@ -1,7 +1,7 @@
 name: lashaundale.com
 favicon: null
-layout_spectrum: 0.2373
-typography_spectrum: 0.546595
+layout_spectrum: 1
+typography_spectrum: 0.04272
 title: fullyinspired
 collections:
   - index:
