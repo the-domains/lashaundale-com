@@ -1,41 +1,41 @@
-name: lashaundale.com
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.04272
 title: fullyinspired
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.6774194
+  brandStrength: 0
+  lightness: 0.8125
+  brandColors:
+    - '#4289B3'
+    - '#66AAD1'
+    - '#1D2129'
+    - '#0D425B'
+    - '#A3CFE9'
+  rhythmicContrast: 0.3853047
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: lashaundale.com
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#95a49d'
-    - '#ebf3f5'
-    - '#00a583'
-    - '#3c5828'
-    - '#1f262f'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.04272
+layout_spectrum: 1
